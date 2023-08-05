@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\programing_practice\\singleton.csproj": {}
+    "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\programing_practice\\singleton.csproj": {
+    "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\programing_practice\\singleton.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\singleton.csproj",
         "projectName": "singleton",
-        "projectPath": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\programing_practice\\singleton.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\singleton.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\programing_practice\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\sakai\\programing_practice\\programing_practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

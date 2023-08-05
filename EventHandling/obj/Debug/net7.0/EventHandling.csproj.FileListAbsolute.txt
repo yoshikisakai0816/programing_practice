@@ -1,0 +1,12 @@
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.csproj.AssemblyReference.cache
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.AssemblyInfoInputs.cache
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.AssemblyInfo.cs
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\bin\Debug\net7.0\EventHandling.deps.json
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\bin\Debug\net7.0\EventHandling.dll
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\bin\Debug\net7.0\EventHandling.pdb
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.dll
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\refint\EventHandling.dll
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\EventHandling.pdb
+C:\Users\User\Documents\sakai\programing_practice\EventHandling\obj\Debug\net7.0\ref\EventHandling.dll
